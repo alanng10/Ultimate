@@ -6,6 +6,10 @@ Ultimate is most general and most level.
 
 Ultimate is park.
 
+Most general and most level is park.
+
+Park is most general and most level.
+
 Ultimate word "park" first letter "p" refers to instance of state.
 
 Second letter "a" refers to instance of all.
