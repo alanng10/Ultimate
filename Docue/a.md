@@ -10,10 +10,10 @@ Most general and most level is park.
 
 Park is most general and most level.
 
-Ultimate word "park" first letter "p" refers to instance of state.
+Ultimate word "park" first letter "p" refers to any state.
 
-Second letter "a" refers to instance of all.
+Second letter "a" refers to any all.
 
-Third letter "r" refers to instance of refed package.
+Third letter "r" refers to any refed package.
 
-Fourth letter "k" refers to instance of kinded output.
+Fourth letter "k" refers to any kinded output.
